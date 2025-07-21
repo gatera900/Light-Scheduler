@@ -10,7 +10,6 @@ This project simulates a real-world IoT dashboard to **schedule a light** using 
 
 -**WebLightScheduler.html** -**WebLightScheduler.html**
 
----
 
 ## How to Run the Project
 
