@@ -4,7 +4,7 @@ This project simulates a real-world IoT dashboard for controlling a light using 
 
 This project simulates a real-world IoT dashboard to **schedule a light** using a graphical web interface, WebSocket server, and MQTT communication.
 
----
+
 
 ## Project Structure
 
